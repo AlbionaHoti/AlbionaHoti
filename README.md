@@ -2,7 +2,7 @@
 
 
 ### Privacy In Web3
->We at the [Privacy In Web3](https://twitter.com/privacyinweb3) are dedicated to increase awareness of privacy solutions in Web3 anonymous systems. 
+>We at the [Privacy In Web3](https://twitter.com/privacyinweb3) are dedicated to increase awareness of privacy solutions in Web3. 
 
 
 ### Languages and Tools
