@@ -8,15 +8,15 @@ I started in web3 with Manta Network, and before that, I was a DevRel for a serv
 
 I started initiatives such as
 
-![269b](https://user-images.githubusercontent.com/22985657/228912163-c4ab0bec-5c76-4160-b23b-a5cd5cafa9c5.png) Coder Gals NGO [An organization to help students get into open-source]
+▪️ Coder Gals NGO [An organization to help students get into open-source]
 
-![269b](https://user-images.githubusercontent.com/22985657/228912163-c4ab0bec-5c76-4160-b23b-a5cd5cafa9c5.png) Toastmasters Prishtina [The first public speaking club in Kosovo to accelerate public speaking skils for students with any background, but specifically focusing on STEM students]
-
-
-![269b](https://user-images.githubusercontent.com/22985657/228912163-c4ab0bec-5c76-4160-b23b-a5cd5cafa9c5.png) Brought DebConf (Debian OS) in Kosovo in 2021 [The first huge open-source conference (600 people) organized in my home town, Prizren, Kosovo] 
+▪️ Toastmasters Prishtina [The first public speaking club in Kosovo to accelerate public speaking skils for students with any background, but specifically focusing on STEM students]
 
 
-![269b](https://user-images.githubusercontent.com/22985657/228912163-c4ab0bec-5c76-4160-b23b-a5cd5cafa9c5.png) My current initiatives include:
+▪️ Brought DebConf (Debian OS) in Kosovo in 2021 [The first huge open-source conference (600 people) organized in my home town, Prizren, Kosovo] 
+
+
+▪️ My current initiatives include:
 
 * Privacy In Web3
   > We at the [Privacy In Web3](https://twitter.com/privacyinweb3) are dedicated to increase awareness of privacy solutions in Web3. 
