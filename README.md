@@ -4,7 +4,7 @@ I'm Albiona or [albicodes](https://twitter.com/albicodes) on socials
 
 I'm the developer advocacy lead at [zkSync Era](https://era.zksync.io/docs/dev/). Thanks to the open-source movement and contributing in any way possible, I'm where I am. I'm a bootstrapper; I love new challenges and providing actionable pathways for my team and me. 
 
-I started in web3 with [Manta Network](https://manta.network/), and before that, I was a DevRel for a serverless framework called [Webiny (YC 21)](https://www.webiny.com/). Before this, I was a remote full-stack developer and an open-source/community builder. 
+I started in web3 with [Manta Network](https://manta.network/), and before that, I was a DevRel for a serverless framework called [Webiny (YC 21)](https://www.webiny.com/). Before this, I was a remote full-stack developer & an open-source contributor & community builder. 
 
 I started initiatives such as
 
