@@ -8,9 +8,9 @@ I started in web3 with [Manta Network](https://manta.network/), and before that,
 
 I started initiatives such as
 
-▪️ (Coder Gals NGO)[https://www.instagram.com/codergalsks/] [An organization to help students get into open-source]
+▪️ [Coder Gals NGO](https://www.instagram.com/codergalsks/) [An organization to help students get into open-source]
 
-▪️ (Toastmasters Prishtina)[https://www.facebook.com/PrishtinaToastmastersClub] [The first public speaking club in Kosovo to accelerate public speaking skils for students with any background, but specifically focusing on STEM students]
+▪️ [Toastmasters Prishtina](https://www.facebook.com/PrishtinaToastmastersClub) [The first public speaking club in Kosovo to accelerate public speaking skils for students with any background, but specifically focusing on STEM students]
 
 
 ▪️ Brought DebConf (Debian OS) in Kosovo in 2021 [The first huge open-source conference (600 people) organized in my home town, Prizren, Kosovo] 
