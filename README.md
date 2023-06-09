@@ -42,4 +42,4 @@ I started initiatives such as
 
 [![Albiona's GitHub stats](https://github-readme-stats.vercel.app/api?username=albionahoti)](https://github.com/albionahoti/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albionahoti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
