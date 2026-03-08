@@ -6,10 +6,10 @@ I build tools that give people **more agency** over their attention, their data,
 
 Previously: DevRel @ Webiny (YC21) · DevRel @ Manta Network · DevRel @ Matter Labs (ZKsync)
 
-· Organizer of DebConf Kosovo 2021.
-· Organizer of Toasmasters Club Prishtina, Kosovo.
-· Organizer of CoderGals NGO in Kosovo.
-· Co-Founder of Hire X (Dev Shop).
+- Organizer of DebConf Kosovo 2021.
+- Organizer of Toasmasters Club Prishtina, Kosovo.
+- Organizer of CoderGals NGO in Kosovo.
+- Co-Founder of Hire X (Dev Shop).
 
 
 ## 🛠️ What I'm building right now
