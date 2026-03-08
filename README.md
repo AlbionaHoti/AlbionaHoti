@@ -7,7 +7,7 @@ I build tools that give people **more agency** over their attention, their data,
 Previously: DevRel @ Webiny (YC21) · DevRel @ Manta Network · DevRel @ Matter Labs (ZKsync)
 
 · Organizer of DebConf Kosovo 2021.
-· Organizer of Toasmasters Club Prishtina Kosovo.
+· Organizer of Toasmasters Club Prishtina, Kosovo.
 · Organizer of CoderGals NGO in Kosovo.
 · Co-Founder of Hire X (Dev Shop).
 
@@ -23,8 +23,6 @@ Elocute picks a random Wikipedia topic and challenges you to explain it clearly,
 
 **→ [Try it at elocute.fun](https://elocute.fun)**
 
----
-
 ### 📡 [Raw Taste](https://github.com/albionahoti/raw-taste) Signal, not noise.
 *A curated intelligence feed for people who want the founder's POV through their target audience.*
 
@@ -38,16 +36,13 @@ Available as:
 
 **→ [Join the waitlist / get early access](https://github.com/albionahoti/raw-taste)**
 
----
-
 ### 📬 Signals Newsletter Platform *Coming soon*
 *Your own newsletter. Powered by your own sources.*
 
 > Personalization without the noise of everyone else's algorithm.
 
-**→ [Join the waitlist](https://albicodes.substack.com)
+**→ [Join the waitlist](https://albicodes.substack.com)**
 
----
 
 ## 🧠 What I'm thinking about
 
@@ -56,7 +51,6 @@ I write about **digital wellness, AI orchestration, and building with agency**: 
 - 📰 Newsletter: **[Signals](https://signals.albiona.dev)** weekly drops on AI, attention, and self-experimentation
 - 🎥 Videos: **[@albicodes](https://www.instagram.com/albicodes)** on YouTube / TikTok / Instagram
 
----
 
 ## 📚 Things I've built & written before
 
