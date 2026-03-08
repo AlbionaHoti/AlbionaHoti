@@ -34,21 +34,21 @@ Available as:
 
 > Think of it as a Bloomberg terminal for internet culture, filtered for signal, priced for builders.
 
-**→ [Join the waitlist / get early access](https://github.com/albionahoti/raw-taste)**
+**→ [Join the waitlist / get early access](https://signals.albiona.dev/)**
 
 ### 📬 Signals Newsletter Platform *Coming soon*
 *Your own newsletter. Powered by your own sources.*
 
 > Personalization without the noise of everyone else's algorithm.
 
-**→ [Join the waitlist](https://albicodes.substack.com)**
+**→ [Join the waitlist](https://signals.albiona.dev/)**
 
 
 ## 🧠 What I'm thinking about
 
 I write about **digital wellness, AI orchestration, and building with agency**: the intersection of neuroscience, consumer apps, and the future of human skills.
 
-- 📰 Newsletter: **[Signals](https://signals.albiona.dev)** weekly drops on AI, attention, and self-experimentation
+- 📰 Newsletter: **[Signals](https://signals.albiona.dev/)** weekly drops on AI, attention, and self-experimentation
 - 🎥 Videos: **[@albicodes](https://www.instagram.com/albicodes)** on YouTube / TikTok / Instagram
 
 
