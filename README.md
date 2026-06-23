@@ -1,6 +1,6 @@
 # Hey, I'm Albiona ([albicodes](https://x.com/albicodes)) 👋
 
-> *EIR @ [Flashbots X](https://x.com/flashbots_x), [Teleport](https://github.com/Account-Link) · Building at the edge of AI, privacy, and human agency · Based between Lisbon, NYC & the internet*
+> *EIR @ [Flashbots X](https://x.com/flashbots_x), [Teleport](https://github.com/teleport-computer) · Building at the edge of AI, privacy, and human agency · Based between Lisbon, NYC & the internet*
 
 I build tools that give people **more agency** over their attention, their data, and their voice. My philosophy: the best AI products amplify what makes you human, they don't replace it.
 
